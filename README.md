@@ -7,7 +7,7 @@ This is a simple project that allows you to search for github repositories and a
 1. `npm install`
 2. `npm start`
 
-### Used tools
+## Used tools
 
 - React
 - Redux Toolkit
